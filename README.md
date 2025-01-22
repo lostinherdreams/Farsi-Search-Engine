@@ -35,3 +35,6 @@ The dataset is sourced from **Farsnews**, providing real-world Farsi text data f
 3. Start querying:
    ```bash
    python search.py
+
+## Example output for Query 'اقتصاد'
+![img not found](./image.png?raw=true "Title")
