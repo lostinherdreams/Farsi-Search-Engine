@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+coverage/
+*.cover
+*.coverage
+*.coverage.*
+.cache
+.nox/
+pytest_cache/
+htmlcov/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Files created during build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pickle files
+*.pickle
+
+# JSON and auxiliary data
+*.json
+
+# Generated Jupyter notebooks
+output_*.ipynb
+
+# Postings and index files
+postings
+*.pkl
+*.pickle
+*.pkl.*
+
+# Custom
+# Add your specific ignored files or directories below
