@@ -25,7 +25,6 @@ The dataset is sourced from **Farsnews**, providing real-world Farsi text data f
 
 
 ## Setup
-## Setup
 1. Clone the repository:
    ```bash
    git clone <repository_url>
